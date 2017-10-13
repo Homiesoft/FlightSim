@@ -1,0 +1,914 @@
+
+skin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ico/arrowDown
+  rotate: false
+  xy: 1, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/arrowLeft
+  rotate: false
+  xy: 1, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/arrowRight
+  rotate: false
+  xy: 53, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/arrowUp
+  rotate: false
+  xy: 1, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/backward
+  rotate: false
+  xy: 53, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/car
+  rotate: false
+  xy: 105, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/cart
+  rotate: false
+  xy: 1, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/chk
+  rotate: false
+  xy: 53, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/cloud
+  rotate: false
+  xy: 105, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/cloudUpload
+  rotate: false
+  xy: 157, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/coin
+  rotate: false
+  xy: 1, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/contrast
+  rotate: false
+  xy: 53, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/cpu
+  rotate: false
+  xy: 105, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/cursor
+  rotate: false
+  xy: 157, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/deviceTilt
+  rotate: false
+  xy: 209, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/deviceTilt_left
+  rotate: false
+  xy: 1, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/deviceTilt_right
+  rotate: false
+  xy: 53, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/diamond
+  rotate: false
+  xy: 105, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/door
+  rotate: false
+  xy: 157, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/down
+  rotate: false
+  xy: 209, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/downLeft
+  rotate: false
+  xy: 261, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/download
+  rotate: false
+  xy: 1, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/downRight
+  rotate: false
+  xy: 53, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/exitLeft
+  rotate: false
+  xy: 105, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/exitRight
+  rotate: false
+  xy: 157, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/export
+  rotate: false
+  xy: 209, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/ff
+  rotate: false
+  xy: 261, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/figure
+  rotate: false
+  xy: 313, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/film
+  rotate: false
+  xy: 1, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/flag
+  rotate: false
+  xy: 53, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/fullScreen
+  rotate: false
+  xy: 105, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/gear
+  rotate: false
+  xy: 157, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/home
+  rotate: false
+  xy: 209, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/import
+  rotate: false
+  xy: 261, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/info
+  rotate: false
+  xy: 313, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/key
+  rotate: false
+  xy: 365, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/leaderboard
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/locked
+  rotate: false
+  xy: 53, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/medal
+  rotate: false
+  xy: 105, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/menuGrid
+  rotate: false
+  xy: 157, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/menuList
+  rotate: false
+  xy: 209, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/minus
+  rotate: false
+  xy: 261, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/mmo
+  rotate: false
+  xy: 313, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/multiplayer
+  rotate: false
+  xy: 365, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/musicOff
+  rotate: false
+  xy: 417, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/musicOn
+  rotate: false
+  xy: 53, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/open
+  rotate: false
+  xy: 105, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/pause
+  rotate: false
+  xy: 157, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/phone
+  rotate: false
+  xy: 209, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/play
+  rotate: false
+  xy: 261, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/plus
+  rotate: false
+  xy: 313, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/pointer
+  rotate: false
+  xy: 365, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/power
+  rotate: false
+  xy: 417, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/restoreWindow
+  rotate: false
+  xy: 469, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/return
+  rotate: false
+  xy: 105, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/rewind
+  rotate: false
+  xy: 157, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/save
+  rotate: false
+  xy: 209, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/share
+  rotate: false
+  xy: 261, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/signal1
+  rotate: false
+  xy: 313, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/signal2
+  rotate: false
+  xy: 365, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/signal3
+  rotate: false
+  xy: 417, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/singleplayer
+  rotate: false
+  xy: 469, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/sndOff
+  rotate: false
+  xy: 521, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/sndOn
+  rotate: false
+  xy: 157, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/star
+  rotate: false
+  xy: 209, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/stepBackward
+  rotate: false
+  xy: 261, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/stepForward
+  rotate: false
+  xy: 313, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/stop
+  rotate: false
+  xy: 365, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/tablet
+  rotate: false
+  xy: 417, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/trash
+  rotate: false
+  xy: 469, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/trashOpen
+  rotate: false
+  xy: 521, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/trophy
+  rotate: false
+  xy: 573, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/unlocked
+  rotate: false
+  xy: 209, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/up
+  rotate: false
+  xy: 261, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/upLeft
+  rotate: false
+  xy: 313, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/upload
+  rotate: false
+  xy: 365, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/upRight
+  rotate: false
+  xy: 417, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/userCPU
+  rotate: false
+  xy: 469, 261
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/video
+  rotate: false
+  xy: 521, 313
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/warning
+  rotate: false
+  xy: 573, 365
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/wrench
+  rotate: false
+  xy: 625, 417
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/x
+  rotate: false
+  xy: 261, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/zoom
+  rotate: false
+  xy: 313, 53
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/zoomDefault
+  rotate: false
+  xy: 365, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/zoomIn
+  rotate: false
+  xy: 417, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ico/zoomOut
+  rotate: false
+  xy: 469, 209
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+skin2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/btn1_out
+  rotate: false
+  xy: 1, 206
+  size: 190, 49
+  split: 5, 5, 5, 10
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/btn2_out
+  rotate: false
+  xy: 1, 155
+  size: 190, 49
+  split: 6, 6, 5, 10
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/btn3_out
+  rotate: false
+  xy: 193, 206
+  size: 190, 49
+  split: 5, 5, 5, 10
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/btn_disabled
+  rotate: false
+  xy: 1, 104
+  size: 190, 49
+  split: 5, 5, 5, 9
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/btn1_in
+  rotate: false
+  xy: 193, 159
+  size: 190, 45
+  split: 5, 5, 5, 5
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/btn2_in
+  rotate: false
+  xy: 385, 210
+  size: 190, 45
+  split: 5, 5, 5, 5
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/btn3_in
+  rotate: false
+  xy: 1, 57
+  size: 190, 45
+  split: 5, 5, 5, 5
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/dropdownBottom
+  rotate: false
+  xy: 193, 133
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+ui/dropdownMid
+  rotate: false
+  xy: 385, 184
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+ui/dropdownTop
+  rotate: false
+  xy: 577, 231
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+ui/sliderHoriz
+  rotate: false
+  xy: 1, 51
+  size: 190, 4
+  orig: 190, 4
+  offset: 0, 0
+  index: -1
+ui/panel
+  rotate: false
+  xy: 193, 31
+  size: 100, 100
+  split: 5, 5, 4, 5
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/sliderVert
+  rotate: false
+  xy: 295, 31
+  size: 4, 100
+  orig: 4, 100
+  offset: 0, 0
+  index: -1
+ui/btnsq1_out
+  rotate: false
+  xy: 385, 133
+  size: 49, 49
+  split: 5, 6, 5, 10
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/btnsq2_out
+  rotate: false
+  xy: 301, 82
+  size: 49, 49
+  split: 4, 5, 5, 10
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/btnsq3_out
+  rotate: false
+  xy: 436, 133
+  size: 49, 49
+  split: 4, 5, 5, 10
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/btnsq_disabled
+  rotate: false
+  xy: 301, 31
+  size: 49, 49
+  split: 5, 5, 5, 9
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/btnsq1_in
+  rotate: false
+  xy: 577, 184
+  size: 49, 45
+  split: 5, 5, 5, 5
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/btnsq2_in
+  rotate: false
+  xy: 1, 4
+  size: 49, 45
+  split: 5, 5, 5, 5
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/btnsq3_in
+  rotate: false
+  xy: 352, 86
+  size: 49, 45
+  split: 5, 5, 5, 5
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/chkBox
+  rotate: false
+  xy: 487, 146
+  size: 38, 36
+  split: 5, 5, 5, 5
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/chkBox_fill
+  rotate: false
+  xy: 628, 193
+  size: 38, 36
+  split: 5, 4, 5, 5
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/chkBox_x
+  rotate: false
+  xy: 52, 13
+  size: 38, 36
+  split: 5, 5, 5, 5
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/circle
+  rotate: false
+  xy: 352, 48
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/rBtn
+  rotate: false
+  xy: 403, 95
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/rBtn_Correct
+  rotate: false
+  xy: 527, 146
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/rBtn_Incorrect
+  rotate: false
+  xy: 668, 193
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/rBtn_fill
+  rotate: false
+  xy: 92, 13
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/sliderLeft
+  rotate: false
+  xy: 441, 100
+  size: 39, 31
+  split: 20, 5, 5, 8
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/sliderRight
+  rotate: false
+  xy: 565, 151
+  size: 39, 31
+  split: 5, 18, 0, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/sliderDown
+  rotate: false
+  xy: 706, 187
+  size: 28, 42
+  split: 5, 5, 4, 17
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/sliderUp
+  rotate: false
+  xy: 736, 187
+  size: 28, 42
+  split: 0, 28, 19, 9
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/chk_v
+  rotate: false
+  xy: 769, 235
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/arrowDownGrey
+  rotate: false
+  xy: 52, 1
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/arrowDownWhite
+  rotate: false
+  xy: 69, 1
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/arrowUpGrey
+  rotate: false
+  xy: 86, 1
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/arrowUpWhite
+  rotate: false
+  xy: 103, 1
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/chk_x
+  rotate: false
+  xy: 130, 31
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/rBtn_tick
+  rotate: false
+  xy: 606, 165
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui/sliderEnd
+  rotate: false
+  xy: 120, 1
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+{
+
+com.badlogic.gdx.graphics.Color: {
+	green: { a: 1, b: 0, g: 1, r: 0 },
+	white: { a: 1, b: 1, g: 1, r: 1 },
+	red: { a: 1, b: 0, g: 0, r: 1 },
+	black: { a: 1, b: 0, g: 0, r: 0 }
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: { down: ui/btnsq1_in, up: ui/btnsq1_out},
+	toggle: { down: ui/btnsq1_in, up: ui/btnsq1_out, checked: ui/btnsq1_in}
+},
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+  default: { down: ui/btnsq1_in, up: ui/btnsq1_out, checked: ui/btnsq1_in},
+  toggle: { down: ui/btnsq1_in, up: ui/btnsq1_out, checked: ui/btnsq1_in}
+},
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: { down: ui/btn1_in, up: ui/btn1_out, checked: ui/btn1_in, font: default-font, fontColor: black },
+	toggle: { down: ui/btn1_in, up: ui/btn1_out, checked: ui/btn1_in, font: default-font, fontColor: black}
+},
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: { vScroll: ui/sliderUp, vScrollKnob: ui/btnsq2_in, background: ui/panel,
+	  hScroll: ui/sliderLeft, hScrollKnob: ui/btnsq2_in }
+},
+com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+	default: {
+		background: ui/dropdownBottom,
+		font: default-font,
+		fontColor: white,
+		scrollStyle: default,
+		listStyle: {
+			font: default-font,
+			selection: ui/dropdownTop
+		}
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: { titleFont: default-font, background: ui/panel, titleFontColor: black },
+	dialog: { titleFont: default-font, background: ui/panel, titleFontColor: black }
+},
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+	default-horizontal: { background: ui/sliderHoriz, knob: ui/sliderEnd},
+	default-vertical: { background: ui/sliderVert, knob: ui/sliderEnd}
+},
+
+
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+	default: { background: ui/btn3_in, font: default-font, fontColorSelected: white, fontColorUnselected: white }
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: { background: ui/sliderHoriz, knob: ui/sliderUp},
+	default-vertical: { background: ui/sliderVert, knob: ui/sliderLeft}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: { font: default-font, fontColor: black },
+	big: { font: big-font},
+	small: { font: small-font},
+	msg: { font: msg-font}
+},
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: { background: ui/btnsq1_in, font: default-font, fontColor: black}
+},
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: { checkboxOn: ui/chkBox_fill, checkboxOff: ui/chkBox, font: default-font, fontColor: black }
+},
+
+}
